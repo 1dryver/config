@@ -1,2 +1,2 @@
 # config
-Counter-Strike: Source Movie Making Config
+Counter-Strike: Source movie making config
